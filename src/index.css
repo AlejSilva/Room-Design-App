@@ -15,14 +15,13 @@ code {
 .column-left {
     float: left;
     width: 30%;
-
     content: "";
     background-color: #6696f6;
-    height: 100%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     font-size: calc(10px + 2vmin);
     color: white;
 }
@@ -49,7 +48,7 @@ code {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
+    font-size: calc(25px + 2vmin);
     color: white;
 }
 .center {

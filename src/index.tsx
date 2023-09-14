@@ -11,7 +11,7 @@ import ColorButtons from "./Objects";
 observe(() => {
     ReactDOM.render(
         <DndProvider backend={HTML5Backend}>
-            <div className="row-top">UD Interior Designer</div>
+            <div className="row-top">Simple Interior Designer</div>
             <div className="row">
                 <div className="column-left">
                     <div>
