@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AlejSilva/Room-Design-App.git/static/css/main.519fadd4.css",
+    "main.js": "/AlejSilva/Room-Design-App.git/static/js/main.44d26369.js",
+    "static/js/787.4ef7427d.chunk.js": "/AlejSilva/Room-Design-App.git/static/js/787.4ef7427d.chunk.js",
+    "static/media/counter.jpg": "/AlejSilva/Room-Design-App.git/static/media/counter.3e7cfd38234444abddd7.jpg",
+    "static/media/tv.jpg": "/AlejSilva/Room-Design-App.git/static/media/tv.d03971e3b91b478937f0.jpg",
+    "static/media/nightTable.jpg": "/AlejSilva/Room-Design-App.git/static/media/nightTable.ff36c244a2bb556c54b5.jpg",
+    "static/media/bathsink.jpg": "/AlejSilva/Room-Design-App.git/static/media/bathsink.e2ea94934d0968711c10.jpg",
+    "static/media/toilet.jpg": "/AlejSilva/Room-Design-App.git/static/media/toilet.06acc726b6ce7b8e39ef.jpg",
+    "static/media/tub.jpg": "/AlejSilva/Room-Design-App.git/static/media/tub.b9969582d91864269a68.jpg",
+    "index.html": "/AlejSilva/Room-Design-App.git/index.html",
+    "main.519fadd4.css.map": "/AlejSilva/Room-Design-App.git/static/css/main.519fadd4.css.map",
+    "main.44d26369.js.map": "/AlejSilva/Room-Design-App.git/static/js/main.44d26369.js.map",
+    "787.4ef7427d.chunk.js.map": "/AlejSilva/Room-Design-App.git/static/js/787.4ef7427d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519fadd4.css",
+    "static/js/main.44d26369.js"
+  ]
+}
