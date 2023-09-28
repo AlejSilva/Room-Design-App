@@ -9,6 +9,7 @@ import { HTML5Backend } from "react-dnd-html5-backend";
 import ColorButtons from "./Objects";
 
 observe(() => {
+    // eslint-disable-next-line react/no-deprecated
     ReactDOM.render(
         <DndProvider backend={HTML5Backend}>
             <div className="row-top">Simple Interior Designer</div>
